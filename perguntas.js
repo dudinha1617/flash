@@ -1,10 +1,10 @@
-  criaCartao(
+    criaCartao(
   'Programação',
   ' O que é JavaScript',
   'O javaScript é uma linguagem de programação'
 )
 
-  criaCartao(
+ criaCartao(
   'Programação',
   ' O que é JavaScript',
   'O javaScript é uma linguagem de programação'
